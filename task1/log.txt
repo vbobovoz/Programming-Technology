@@ -1,0 +1,11 @@
+commit 5091289e6ffb9c808c8d6852c01d2165703f5f69 (HEAD -> master)
+Author: Vladislav Bobovoz <vladislav.bobovoz@outlook.com>
+Date:   Mon Mar 27 11:49:13 2023 +0300
+
+    changes in status.txt
+
+commit 1e33cfb15a81da62e96eb299ffdd2efdb7e12046
+Author: Vladislav Bobovoz <vladislav.bobovoz@outlook.com>
+Date:   Mon Mar 27 11:47:29 2023 +0300
+
+    add .gitignoreg
