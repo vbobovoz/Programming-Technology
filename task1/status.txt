@@ -14,3 +14,15 @@ Untracked files:
 
 On branch master
 nothing to commit, working tree cleang
+
+
+
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Programming-Technology/
+
+nothing added to commit but untracked files present (use "git add" to track)
